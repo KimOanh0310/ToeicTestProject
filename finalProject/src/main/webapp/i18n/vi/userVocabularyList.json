@@ -1,0 +1,39 @@
+{
+  "finalProjectApp": {
+    "userVocabularyList": {
+      "home": {
+        "title": "VOCABULARY",
+        "notFound": "No Vocabularies found",
+        "subtitle": {
+          "sub01": "Từ vựng là nền tảng cho các kỹ năng phát triển.",
+          "sub02": "Vốn từ phong phú, dồi dào sẽ hỗ trợ bạn rất nhiều trong việc phát triển và hoàn thiện các kỹ năng khác một cách hiệu quả hơn.",
+          "sub03": "Có được vốn từ đa dạng, bạn có thể dễ dàng hiểu được nội dung truyền đạt ngay cả khi ngữ pháp của bạn không quá vững. Và khi hiểu nhanh, hiểu đúng, bạn sẽ có thể phản xạ trả lời lại nhanh chóng. Quá trình nghe, hiểu và nói từ đó cũng sẽ ngày càng thành thạo, trôi chảy.",
+          "sub04": "Ngoài các vấn đề liên quan đến các kỹ năng nghe, nói hay đọc thì từ vựng tiếng Anh còn giúp phát triển não bộ ở khả năng viết nhanh chóng, đúng ngữ cảnh và không sai chính tả. Từ đó, bạn hoàn toàn có thể tự tin viết một lá thư hay trình bày một vấn đề nào đó bằng tiếng Anh không phải lo lắng điều gì."
+        }
+      },
+      "notice": {
+        "title": "Mục này vẫn còn trong quá trình cập nhật! Cảm ơn ^^"
+      },
+      "vocabulary": {
+        "title": "Từ Vựng",
+        "topicList": "Danh sách chủ đề Từ vựng",
+        "topic01": {
+          "title": "600 TỪ VỰNG TOEIC",
+          "text": "Một số chủ đề trong 600 từ vựng TOEIC cơ bản. Từ vựng chung sẽ xuất hiện trong kỳ thi TOEIC."
+        },
+        "topic02": {
+          "title": "500 TỪ VỰNG PHỔ BIẾN",
+          "text": "Một số chủ đề trong 500 từ vựng TOEIC phổ biến. Từ vựng chung sẽ xuất hiện trong kỳ thi TOEIC."
+        },
+        "topic03": {
+          "title": "1500 TỪ VỰNG",
+          "text": "Một số chủ đề trong 1500 từ vựng TOEIC cơ bản. Từ vựng chung sẽ xuất hiện trong kỳ thi TOEIC."
+        },
+        "topic04": {
+          "title": "3500 TỪ VỰNG",
+          "text": "Một số chủ đề trong 3500 từ vựng TOEIC cơ bản. Từ vựng chung sẽ xuất hiện trong kỳ thi TOEIC."
+        }
+      }
+    }
+  }
+}
