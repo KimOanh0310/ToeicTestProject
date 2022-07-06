@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-02T10:46:32.116Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="hLCnWozXdZae6WiI7umx" version="20.0.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-06T10:35:53.813Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="IH66oV30v4DRBHpMBhH9" version="20.0.3" type="github" pages="2">
   <diagram id="45z7SKfdKm1kR5zK4M49" name="BFD">
     <mxGraphModel dx="1384" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -440,11 +440,260 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="QNculDc_qG4ztOTOJSLF" name="Page-2">
-    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+  <diagram id="QNculDc_qG4ztOTOJSLF" name="UCD">
+    <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hrRAc1_ypunlWakugekx-10" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-11" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-12" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-13" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-14" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-15" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="550" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-16" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-17" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-18" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-19" style="edgeStyle=none;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-1" target="hrRAc1_ypunlWakugekx-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;User&lt;/font&gt;&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="20" y="410" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-20" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Đăng ký/ Đăng nhập&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Xem thông tin tài khoản&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="230" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-33" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Đăng xuất&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="790" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-34" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Ghi chú&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="300" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Phản hồi ý kiến&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-36" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Xem danh sách Q&amp;amp;A&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="650" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-37" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Xem bảng điểm quy đổi Toeic&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-38" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Xem danh sách từ vựng&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="160" y="375" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-39" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Xem danh sách ngữ pháp&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Xem danh sách Toeic&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-41" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Thêm, sửa, xoá&lt;/font&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="180" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-42" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;Xem lịch sử làm bài&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="235" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-43" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Đổi mật khẩu&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="290" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-49" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Luyện tập từ vựng&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="380" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-51" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Luyện tập ngữ pháp&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="445" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-52" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Xem theo đề thi&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-53" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Xem theo task 1 - 7&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="570" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-66" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=16;strokeColor=#000000;endFill=1;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-42" target="hrRAc1_ypunlWakugekx-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="254.29" as="sourcePoint" />
+            <mxPoint x="380" y="254.29" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-67" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=16;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-68" value="" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=14;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-31" target="hrRAc1_ypunlWakugekx-41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="210.00000000000003" as="sourcePoint" />
+            <mxPoint x="490" y="210.00000000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-69" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=14;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-70" value="" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=14;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-49" target="hrRAc1_ypunlWakugekx-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700.0000000000032" y="375" as="sourcePoint" />
+            <mxPoint x="830.0000000000045" y="320.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-71" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=14;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-72" value="" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=14;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-51" target="hrRAc1_ypunlWakugekx-94">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710.0000000000032" y="455" as="sourcePoint" />
+            <mxPoint x="840.0000000000045" y="400.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-73" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=14;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-74" value="" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=14;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-89" target="hrRAc1_ypunlWakugekx-95">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770.0000000000032" y="815" as="sourcePoint" />
+            <mxPoint x="900.0000000000045" y="760.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-75" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=14;strokeColor=#000000;direction=south;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-76" value="" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=14;strokeColor=#000000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endFill=1;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-92" target="hrRAc1_ypunlWakugekx-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060.0000000000032" y="745" as="sourcePoint" />
+            <mxPoint x="1190.0000000000045" y="690.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-77" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;lt;&amp;lt;include&amp;gt;&amp;gt;&lt;/font&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=14;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-79" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=16;strokeColor=#000000;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-43" target="hrRAc1_ypunlWakugekx-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500.00000000000455" y="280" as="sourcePoint" />
+            <mxPoint x="370.0000000000032" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-80" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=16;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-81" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=16;strokeColor=#000000;endFill=1;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-49" target="hrRAc1_ypunlWakugekx-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510.00000000000455" y="401.79" as="sourcePoint" />
+            <mxPoint x="380.0000000000032" y="401.79" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-82" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=16;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-83" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=16;strokeColor=#000000;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-51" target="hrRAc1_ypunlWakugekx-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520.0303438983642" y="411.91578145388553" as="sourcePoint" />
+            <mxPoint x="389.9800507796674" y="410.4761041159295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-84" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=16;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-85" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=16;strokeColor=#000000;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-52" target="hrRAc1_ypunlWakugekx-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530.0303438983642" y="421.91578145388553" as="sourcePoint" />
+            <mxPoint x="399.9800507796674" y="420.4761041159295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-86" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=16;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-87" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=16;strokeColor=#000000;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-53" target="hrRAc1_ypunlWakugekx-40">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540.0303438983642" y="431.91578145388553" as="sourcePoint" />
+            <mxPoint x="409.9800507796674" y="430.4761041159295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-88" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=16;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-89" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Truy cập từng Q&amp;amp;A&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="510" y="655" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-90" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=16;strokeColor=#000000;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-89" target="hrRAc1_ypunlWakugekx-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="700" as="sourcePoint" />
+            <mxPoint x="390.0000000000032" y="642.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-91" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=16;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-92" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Luyện thi Toeic&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="820" y="535" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-93" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Xem kết quả&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="535" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-94" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Xem kết quả&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="820" y="442.5" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-95" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Xem giải đáp&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="820" y="652.5" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-96" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Xem kết quả&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=12;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="820" y="380" width="180" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-98" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=16;strokeColor=#000000;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-92" target="hrRAc1_ypunlWakugekx-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="570" as="sourcePoint" />
+            <mxPoint x="690.0000000000032" y="512.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-99" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=16;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-100" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;&lt;/b&gt;&lt;/font&gt;" style="endArrow=classicThin;html=1;rounded=1;dashed=1;sketch=0;fontSize=16;strokeColor=#000000;endFill=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hrRAc1_ypunlWakugekx-92" target="hrRAc1_ypunlWakugekx-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="650" as="sourcePoint" />
+            <mxPoint x="690.0000000000032" y="592.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrRAc1_ypunlWakugekx-101" value="" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;rounded=0;sketch=0;fontSize=16;strokeColor=#000000;" connectable="0" vertex="1" parent="hrRAc1_ypunlWakugekx-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
