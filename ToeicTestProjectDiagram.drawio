@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T11:21:51.221Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="BKzA_EB4zE2iplC68L0V" version="20.0.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-07T11:22:37.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="pVw7-z5MPe3VDNUh5L9K" version="20.0.3" type="github" pages="4">
   <diagram id="45z7SKfdKm1kR5zK4M49" name="BFD">
     <mxGraphModel dx="1384" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -861,13 +861,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GiFBzRifABIeleytS315-6" value="" style="shape=umlLifeline;participant=umlActor;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;verticalAlign=top;spacingTop=36;outlineConnect=0;rounded=0;sketch=0;fontSize=17;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="200" y="80" width="20" height="2290" as="geometry" />
+          <mxGeometry x="200" y="80" width="20" height="2250" as="geometry" />
         </mxCell>
         <mxCell id="GiFBzRifABIeleytS315-8" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;User&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="185" y="115" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GiFBzRifABIeleytS315-9" value="View" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;sketch=0;fontSize=13;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="310" y="80" width="100" height="2310" as="geometry" />
+          <mxGeometry x="310" y="80" width="100" height="2250" as="geometry" />
         </mxCell>
         <mxCell id="GiFBzRifABIeleytS315-25" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Yêu cầu đăng ký&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;rounded=1;sketch=0;fontSize=13;fontColor=#000000;strokeColor=#000000;entryX=0.1;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GiFBzRifABIeleytS315-9" target="GiFBzRifABIeleytS315-43">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -985,7 +985,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GiFBzRifABIeleytS315-10" value="Database" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;sketch=0;fontSize=13;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="680" y="80" width="100" height="2280" as="geometry" />
+          <mxGeometry x="680" y="80" width="100" height="2240" as="geometry" />
         </mxCell>
         <mxCell id="GiFBzRifABIeleytS315-27" value="Không hợp lệ" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=1;sketch=0;fontSize=11;fontColor=#000000;strokeColor=#000000;entryX=1.14;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GiFBzRifABIeleytS315-10" target="GiFBzRifABIeleytS315-43">
           <mxGeometry relative="1" as="geometry">
@@ -1012,7 +1012,7 @@
           <mxGeometry x="45" y="1930" width="10" height="100" as="geometry" />
         </mxCell>
         <mxCell id="GiFBzRifABIeleytS315-11" value="Controller" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=0;sketch=0;fontSize=13;fontColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="500" y="80" width="100" height="2300" as="geometry" />
+          <mxGeometry x="500" y="80" width="100" height="2250" as="geometry" />
         </mxCell>
         <mxCell id="GiFBzRifABIeleytS315-29" value="Thông báo lỗi" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=1;sketch=0;fontSize=11;fontColor=#000000;strokeColor=#000000;entryX=1.1;entryY=0.646;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="GiFBzRifABIeleytS315-11" target="GiFBzRifABIeleytS315-45">
           <mxGeometry relative="1" as="geometry">
