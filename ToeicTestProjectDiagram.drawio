@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-09T07:28:11.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="Q6rid-Njcm_WBCdTlhHw" version="20.0.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-09T07:30:39.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.53 Safari/537.36 Edg/103.0.1264.37" etag="pQZ-PsalJqUE-wqwRfR6" version="20.0.3" type="github" pages="6">
   <diagram id="45z7SKfdKm1kR5zK4M49" name="BFD">
     <mxGraphModel dx="1384" dy="719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4530,6 +4530,39 @@
         </mxCell>
         <mxCell id="Q_D0XLNxJ8tyGN70JhTV-109" value="Hệ thống" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2515" y="83" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_D0XLNxJ8tyGN70JhTV-110" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="108" width="580" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_D0XLNxJ8tyGN70JhTV-111" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="76" width="580" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_D0XLNxJ8tyGN70JhTV-112" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3340" y="1520" as="sourcePoint" />
+            <mxPoint x="3340" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_D0XLNxJ8tyGN70JhTV-113" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2760" y="1520" as="sourcePoint" />
+            <mxPoint x="2760" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_D0XLNxJ8tyGN70JhTV-114" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="1">
+          <mxGeometry x="2760" y="1516" width="580" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_D0XLNxJ8tyGN70JhTV-115" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3058.5" y="1520" as="sourcePoint" />
+            <mxPoint x="3058.5" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Q_D0XLNxJ8tyGN70JhTV-116" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2885" y="82" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Q_D0XLNxJ8tyGN70JhTV-117" value="Hệ thống" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="3155" y="83" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
