@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-10T18:09:44.384Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="-kG6SjwymX5yz9imJmyR" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-10T18:14:21.199Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="EqN3JnKgsEuSDeJ4Av2D" version="20.0.4" type="github" pages="2">
   <diagram id="tJ0sNUDx9aMHmO9OnI9j" name="Trang đki/đnhap">
     <mxGraphModel dx="1093" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -46,13 +46,10 @@
           <mxGeometry x="81.51" y="36.34" width="56.97" height="53.66" as="geometry" />
         </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-65" value="" style="whiteSpace=wrap;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=14;strokeColor=default;strokeWidth=2;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-45">
-          <mxGeometry x="84" y="103" width="120" height="20" as="geometry" />
+          <mxGeometry x="84" y="103" width="116" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-66" value="Email/Sđt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=0;fontFamily=Comic Sans MS;fontSize=14;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-45">
           <mxGeometry x="12" y="98" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="OMIB45ioTC_cZx6hZwyd-67" value="" style="whiteSpace=wrap;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=14;strokeColor=default;strokeWidth=2;rounded=0;sketch=1;perimeterSpacing=0;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-45">
-          <mxGeometry x="83" y="134" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-68" value="Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=0;fontFamily=Comic Sans MS;fontSize=14;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-45">
           <mxGeometry x="10" y="129" width="60" height="30" as="geometry" />
@@ -71,6 +68,9 @@
         </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-89" value="&lt;font style=&quot;background-color: rgb(102, 178, 255);&quot; color=&quot;#333333&quot; face=&quot;Comic Sans MS&quot;&gt;Sign up&lt;/font&gt;" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;sketch=0;fillColor=#66B2FF;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-45">
           <mxGeometry x="62.5" y="280" width="95" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="MS7OdSZ-iBpZd0oYzQu_-3" value="********" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#000000;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-45">
+          <mxGeometry x="84" y="133" width="116" height="22" as="geometry" />
         </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-93" value="" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#808080;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;glass=0;fontFamily=Comic Sans MS;fontSize=11;fillColor=none;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="650" width="760" height="480" as="geometry" />
@@ -113,17 +113,17 @@
         <mxCell id="OMIB45ioTC_cZx6hZwyd-120" value="Password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=0;fontFamily=Comic Sans MS;fontSize=14;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-96">
           <mxGeometry x="9" y="184" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OMIB45ioTC_cZx6hZwyd-133" value="" style="whiteSpace=wrap;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=14;strokeColor=default;strokeWidth=2;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-96">
-          <mxGeometry x="130" y="193" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-134" value="Confirm password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=0;fontFamily=Comic Sans MS;fontSize=14;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-96">
           <mxGeometry x="7" y="213" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OMIB45ioTC_cZx6hZwyd-135" value="" style="whiteSpace=wrap;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=14;strokeColor=default;strokeWidth=2;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-96">
-          <mxGeometry x="130" y="218" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-136" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;u&gt;Login&lt;/u&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=0;fontFamily=Comic Sans MS;fontSize=14;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-96">
           <mxGeometry y="286" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MS7OdSZ-iBpZd0oYzQu_-1" value="********" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#000000;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-96">
+          <mxGeometry x="129" y="190" width="80" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="MS7OdSZ-iBpZd0oYzQu_-2" value="********" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#000000;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-96">
+          <mxGeometry x="130" y="219" width="80" height="22" as="geometry" />
         </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-137" value="" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#808080;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;glass=0;fontFamily=Comic Sans MS;fontSize=11;fillColor=none;rounded=0;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="640" width="760" height="480" as="geometry" />
@@ -189,20 +189,37 @@
         <mxCell id="OMIB45ioTC_cZx6hZwyd-167" value="Email/Sđt" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=0;fontFamily=Comic Sans MS;fontSize=14;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-163">
           <mxGeometry x="-3" y="126" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OMIB45ioTC_cZx6hZwyd-168" value="" style="whiteSpace=wrap;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=14;strokeColor=default;strokeWidth=2;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-163">
-          <mxGeometry x="129" y="210" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-170" value="New password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=0;fontFamily=Comic Sans MS;fontSize=14;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-163">
           <mxGeometry x="4" y="165" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-171" value="&lt;font style=&quot;background-color: rgb(102, 178, 255); font-size: 16px;&quot; color=&quot;#333333&quot; face=&quot;Comic Sans MS&quot;&gt;Submit&lt;/font&gt;" style="strokeWidth=2;shadow=1;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;sketch=0;fillColor=#66B2FF;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-163">
           <mxGeometry x="70.00000000000021" y="250" width="80" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="OMIB45ioTC_cZx6hZwyd-186" value="" style="whiteSpace=wrap;html=1;shadow=0;fontFamily=Comic Sans MS;fontSize=14;strokeColor=default;strokeWidth=2;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-163">
-          <mxGeometry x="129" y="170" width="80" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="OMIB45ioTC_cZx6hZwyd-187" value="Confirm password" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;shadow=0;fontFamily=Comic Sans MS;fontSize=14;rounded=0;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-163">
           <mxGeometry x="2" y="205" width="126" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MS7OdSZ-iBpZd0oYzQu_-4" value="********" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#000000;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-163">
+          <mxGeometry x="127.99999999999979" y="209" width="80" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="MS7OdSZ-iBpZd0oYzQu_-5" value="********" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.pwField;strokeColor=#000000;mainText=;align=left;fontColor=#666666;fontSize=17;spacingLeft=3;sketch=1;" vertex="1" parent="OMIB45ioTC_cZx6hZwyd-163">
+          <mxGeometry x="128" y="169" width="80" height="22" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DFhYAM2J_4_Qxgf_UuK1" name="Trang chủ">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="B4QDrSRmZWmo6CPRYVbZ-1" value="" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#808080;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;glass=0;fontFamily=Comic Sans MS;fontSize=11;fillColor=none;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="600" width="760" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="B4QDrSRmZWmo6CPRYVbZ-2" value="KO TOEIC" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;glass=0;fontFamily=Comic Sans MS;fillColor=none;rounded=0;sketch=1;" vertex="1" parent="B4QDrSRmZWmo6CPRYVbZ-1">
+          <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="B4QDrSRmZWmo6CPRYVbZ-3" value="https://toeictestproject.com/..." style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;glass=0;fontFamily=Comic Sans MS;fillColor=none;rounded=0;sketch=1;" vertex="1" parent="B4QDrSRmZWmo6CPRYVbZ-1">
+          <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
