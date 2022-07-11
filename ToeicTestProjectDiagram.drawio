@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T09:16:45.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="bcmIg7D6Av2xuYCxMeCm" version="20.0.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-07-11T09:29:20.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="84zNXwmTgJNQPI35G8ZR" version="20.0.4" type="github" pages="6">
   <diagram id="45z7SKfdKm1kR5zK4M49" name="BFD">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -2103,7 +2103,7 @@
             <mxPoint x="1435" y="1311" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5A8q9M5HCPAx_eF8cOq9-119" value="Chọn cấp độ" style="html=1;verticalAlign=bottom;endArrow=block;rounded=1;sketch=0;fontSize=11;fontColor=#000000;strokeColor=#000000;" parent="1" edge="1">
+        <mxCell id="5A8q9M5HCPAx_eF8cOq9-119" value="Chọn chủ đề" style="html=1;verticalAlign=bottom;endArrow=block;rounded=1;sketch=0;fontSize=11;fontColor=#000000;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1080" y="1280" as="sourcePoint" />
             <mxPoint x="1255" y="1280" as="targetPoint" />
@@ -2125,7 +2125,7 @@
           <mxGeometry x="1158" y="1351" width="310" height="91.25" as="geometry" />
         </mxCell>
         <mxCell id="5A8q9M5HCPAx_eF8cOq9-126" value="alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontSize=11;fontColor=#000000;strokeColor=#000000;width=70;height=15;" parent="1" vertex="1">
-          <mxGeometry x="941" y="1177" width="720" height="288.12" as="geometry" />
+          <mxGeometry x="941" y="1177" width="720" height="285.12" as="geometry" />
         </mxCell>
         <mxCell id="5A8q9M5HCPAx_eF8cOq9-127" value="Thay đổi thành công" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=1;sketch=0;fontSize=11;fontColor=#000000;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -3111,7 +3111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ckYnGwv1FK0897uNddSD" name="Database">
-    <mxGraphModel dx="2307" dy="1198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1093" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
