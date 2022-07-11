@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T07:00:10.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="9210sksK3Klkk3sN1VSK" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-11T07:02:31.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.49" etag="IUUpr4kmIN0yNC68IPwR" version="20.0.4" type="github" pages="3">
   <diagram id="tJ0sNUDx9aMHmO9OnI9j" name="Trang đki/đnhap">
     <mxGraphModel dx="2966" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -213,7 +213,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="B4QDrSRmZWmo6CPRYVbZ-1" value="" style="strokeWidth=2;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;glass=0;fontFamily=Comic Sans MS;fontSize=11;rounded=0;sketch=1;strokeColor=#808080;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="800" height="480" as="geometry" />
+          <mxGeometry x="80" y="40" width="800" height="480" as="geometry" />
         </mxCell>
         <mxCell id="B4QDrSRmZWmo6CPRYVbZ-2" value="KO TOEIC" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;glass=0;fontFamily=Comic Sans MS;fillColor=none;rounded=0;sketch=1;" vertex="1" parent="B4QDrSRmZWmo6CPRYVbZ-1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -458,6 +458,14 @@
         <mxCell id="VtqkpAI_fFJBqQN0cv3S-4" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;verticalAlign=top;strokeWidth=2;html=1;shape=mxgraph.mockup.misc.editIcon;sketch=0;fontFamily=Comic Sans MS;fontSize=13;" vertex="1" parent="B4QDrSRmZWmo6CPRYVbZ-1">
           <mxGeometry x="20" y="443.94" width="19" height="20" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="00XNC7PJql8605ylKY3o" name="Page-3">
+    <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
