@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-23T08:20:18.960Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="QEWwYUmM45omwjlh5n13" version="20.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-23T09:08:52.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62" etag="NN-7ORcC-S4FD8jGHobG" version="20.1.4" type="github" pages="2">
   <diagram id="tJ0sNUDx9aMHmO9OnI9j" name="Trang đki/đnhap">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -446,7 +446,7 @@
         <mxCell id="H5_U_odsikQTI9zCXG25-1" value="&lt;font color=&quot;#666666&quot; style=&quot;font-size: 16px;&quot; face=&quot;Comic Sans MS&quot;&gt;Contact&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontColor=#4D4D4D;strokeColor=#FFFFFF;" vertex="1" parent="B4QDrSRmZWmo6CPRYVbZ-1">
           <mxGeometry x="574" y="130" width="62.5" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nF2iQnL3vZgm6EUJt9K4-3" value="&lt;span style=&quot;color: rgb(102, 102, 102); text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;TOEICbyKO&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontFamily=Comic Sans MS;fontSize=52;fontColor=#4D4D4D;" vertex="1" parent="B4QDrSRmZWmo6CPRYVbZ-1">
+        <mxCell id="nF2iQnL3vZgm6EUJt9K4-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;TOEICbyKO&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;fontFamily=Comic Sans MS;fontSize=52;fontColor=#4D4D4D;" vertex="1" parent="B4QDrSRmZWmo6CPRYVbZ-1">
           <mxGeometry y="110" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
