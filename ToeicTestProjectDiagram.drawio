@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-02T10:54:47.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="6h43JCp6DCfBlGRTiZIg" version="20.2.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-08-02T10:55:22.239Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 Safari/537.36 Edg/103.0.1264.77" etag="4Bs52Pjd5IXpzt9YfUxw" version="20.2.2" type="github" pages="6">
   <diagram id="45z7SKfdKm1kR5zK4M49" name="BFD">
     <mxGraphModel dx="1597" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
@@ -4056,7 +4056,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NSUcWavxbyKh3gwIIXGi" name="AD">
-    <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4598,13 +4598,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p1Dk-GkbTRo3ClZOtdPB-234" value="Chọn học Từ vựng" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="2190" y="360" width="145" height="40" as="geometry" />
+          <mxGeometry x="2190" y="360" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4E7JOSE4lqYNqFn6WWhz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF0000;fontSize=17;" parent="1" source="p1Dk-GkbTRo3ClZOtdPB-236" target="p1Dk-GkbTRo3ClZOtdPB-238" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p1Dk-GkbTRo3ClZOtdPB-236" value="Truy xuất trang Từ vựng" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="2490" y="354.5" width="140" height="51" as="geometry" />
+          <mxGeometry x="2490" y="360" width="140" height="51" as="geometry" />
         </mxCell>
         <mxCell id="p1Dk-GkbTRo3ClZOtdPB-239" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endArrow=open;endFill=0;strokeColor=#FF0000;fontSize=17;" parent="1" source="p1Dk-GkbTRo3ClZOtdPB-238" target="p1Dk-GkbTRo3ClZOtdPB-240" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -4612,7 +4612,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="p1Dk-GkbTRo3ClZOtdPB-238" value="Hiển thị trang chủ đề Từ vựng" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;fontSize=17;" parent="1" vertex="1">
-          <mxGeometry x="2190" y="452" width="147.5" height="46" as="geometry" />
+          <mxGeometry x="2190" y="440" width="147.5" height="58" as="geometry" />
         </mxCell>
         <mxCell id="p1Dk-GkbTRo3ClZOtdPB-241" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=open;endFill=0;strokeColor=#FF0000;fontSize=17;" parent="1" source="p1Dk-GkbTRo3ClZOtdPB-240" target="p1Dk-GkbTRo3ClZOtdPB-242" edge="1">
           <mxGeometry relative="1" as="geometry">
